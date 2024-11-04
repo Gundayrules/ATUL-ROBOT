@@ -8,7 +8,7 @@
   <img src="https://github.com/WCGKING/FallenRobotresources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ʀᴏʙᴏᴛ](https://t.me/Ladlimusic_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
