@@ -1,7 +1,7 @@
 {
-      "name": "BRANDED ROBOT",
-      "description": "Branded Management Bot.",
-      "logo": "https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg",
+      "name": "ATUL ROBOT",
+      "description": "Atul Management Bot.",
+      "logo": "https://i.imghippo.com/files/Dv9927ZG.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -61,7 +61,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "6258877205"
+         "value": "6896771363"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
