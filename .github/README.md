@@ -12,13 +12,13 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ʀᴏʙᴏᴛ](htt
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/WCGKING/BRANDED-ROBOT/stargazers"><img src="https://img.shields.io/github/stars/WCGKING/BRANDED-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Gundayrules/ATUL-USERBOT/stargazers"><img src="https://img.shields.io/github/stars/WCGKING/BRANDED-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/WCGKING/BRANDED-ROBOT/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BRANDED-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/WCGKING/BRANDED-ROBOT/BRANDED-ROBOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/WCGKING/BRANDED-ROBOT"> <img src="https://img.shields.io/github/repo-size/WCGKING/BRANDED-ROBOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Gundayrules/ATUL-USERBOT"> <img src="https://img.shields.io/github/repo-size/WCGKING/BRANDED-ROBOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/WCGKING/BRANDED-ROBOT/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
