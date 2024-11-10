@@ -76,7 +76,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://files.catbox.moe/9zk0mo.jpg">
+  <img src="https://i.imghippo.com/files/Dv9927ZG.jpg">
 </p>
 
 </details>
